@@ -20,3 +20,4 @@ git clone https://github.com/guevaraStian/CRUD_Php_MySql.git
 cd CRUD_Php_MySql
 git push origin master
 ```
+Para ejecutar el codigo se puede descargar los archivos en un servidor y luego ingresar el link con el puerto en el navegador.
