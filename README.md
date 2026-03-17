@@ -11,7 +11,7 @@ mysql -V
 mysql --version
 ```
 
-Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto, se puede descargar dando click en el boton verde del gihub y luego en dowload, o ejecutando los siguientes comandos de git.
 
 ```Terminal de comandos
 git --version
