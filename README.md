@@ -2,7 +2,7 @@
 
 Con el fin de poner a funcionar este software hay que sacarle una copia y la carpeta pegarla en el servidor PHP que tengas instalado, luego ingresar al proyecto y abrir el index.php, tambien es necesario tener un motor de base de datos instalado como Mysql.
 
-Luego de tener instalado un motor de bases de datos, podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+Luego de tener instalado un motor de bases de datos, podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes comandos de consola
 
 ```Terminal de comandos
 cd
