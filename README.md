@@ -1,5 +1,6 @@
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS PHP </h1> 
 
+En este repositorio se muestran varios software hechos en el lenguaje de programacion PHP y con diferentes funcionalidades.
 Con el fin de poner a funcionar este software hay que sacarle una copia y la carpeta pegarla en el servidor PHP que tengas instalado, luego ingresar al proyecto y abrir el index.php, tambien es necesario tener un motor de base de datos instalado como Mysql.
 
 Luego de tener instalado un motor de bases de datos, podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes comandos de consola
