@@ -31,7 +31,7 @@ brew install git
 ```
 
 
-Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto, se puede descargar dando click en el boton verde del gihub y luego en dowload, o luego de descargar git procedemos a ejecutando los siguientes comandos en cualquier sistema operativo.
+Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto, se puede descargar dando click en el boton verde del gihub y luego en dowload, o luego de descargar git procedemos a ejecutando los siguientes comandos en cualquier sistema operativo a continuacion.
 
 ```Terminal de comandos
 git --version
